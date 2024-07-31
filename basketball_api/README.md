@@ -88,7 +88,7 @@ Key features:
 Ensure the following environment variables are set:
 - `API_BASE_URL`: URL of your FastAPI application
 - `REDIS_HOST`, `REDIS_PORT`, `REDIS_DB` (if using Redis)
-- `API_USERNAME`, `API_PASSWORD`, `API_PORT`
+- `CLIENT_ID`, `CLIENT_SECRET`, `API_PORT
 
 ## Usage
 
